@@ -8,6 +8,9 @@ Description here
 Sample website with plenty of files for demos.
 More text
 
+## How to contribute
+Code!
+
 ## Deployment
 Deployment instructions.
 More instructions
