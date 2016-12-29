@@ -11,3 +11,6 @@ More text
 ## Deployment
 Deployment instructions.
 More instructions
+
+## Copyright
+Blah blah
