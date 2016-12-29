@@ -17,4 +17,4 @@ Deployment instructions.
 More instructions
 
 ## Copyright
-Blah blah
+Blah blah all rights
